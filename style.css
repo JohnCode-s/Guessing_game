@@ -112,9 +112,9 @@ strong{
 
 @media screen and (min-width: 320px){
     .container{
-        width: 580px;
+        min-width: 320px;
     }
     .welcome{
-        width: 580px;
+        min-width: 320px;
     }
 }
